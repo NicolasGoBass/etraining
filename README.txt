@@ -15,3 +15,4 @@ Tardará unos minutos en leer la información del archivo CSV e insertandolo en 
 
 NOTA: se hizo una pequeña corrección en los encabezados del CSV, dado que estaba trucado la información de departamento con Municipios, esto ya que se asume que un desarrollo tiene como finalidad prolongarse en el timepo, y que desde el origen posteriomente la información vendrá bien, de lo contrario debería ajustarse el script.
 
+AUTOR: NICOLAS GOMEZ LOZANO
